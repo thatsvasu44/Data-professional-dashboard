@@ -65,4 +65,4 @@ This project presents an interactive dashboard that analyzes survey responses fr
 
 -Actionable insights for students, aspiring data professionals, and recruiters.
 
--Visual output- 
+-Visual output- https://github.com/thatsvasu44/Data-professional-dashboard/blob/main/Snapshot%20of%20Dashboard.jpg
